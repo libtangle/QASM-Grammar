@@ -23,7 +23,6 @@ $ grun QASM mainprog -gui
 The following parse tree is from the QASM code below:
 
 ![Parse Tree](https://raw.github.com/qcgpu/QASM-Grammar/master/examples/antlr4_parse_tree.svg?sanitize=true)
-<img src="https://raw.github.com/qcgpu/QASM-Grammar/master/examples/antlr4_parse_tree.svg?sanitize=true">
 
 ```AS
 // Repetition code syndrome measurement
